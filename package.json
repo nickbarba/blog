@@ -1,4 +1,6 @@
 {
+  "name": "nickbarba",
+  "description": "nickbarba.com blog",
   "scripts": {
     "dev": "next",
     "build": "next build",
