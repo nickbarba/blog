@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default () => (
   <div className='root'>
     <Head>
-      <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css' />
+      <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css' />
     </Head>
 
     <a href='https://twitter.com/n1ckbarba'><i className='fa fa-twitter' /></a>
